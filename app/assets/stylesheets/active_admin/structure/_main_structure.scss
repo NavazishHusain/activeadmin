@@ -8,7 +8,7 @@
 
 #active_admin_content {
   margin: 0;
-  padding: $horizontal-page-margin;
+  padding: 10px;
 
   #main_content_wrapper {
     float: left;
@@ -23,7 +23,7 @@
 
   #sidebar {
     float: left;
-    width: $sidebar-width;
+    width: auto;
     margin-left: -$sidebar-width;
   }
 }
